@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the behaviour, last dying words, and execution of John Hutchins, the sollicitor who was executed on a gibbet erected in Fleet-Street, for the murther of John Sparks, a water-man, on Wednesday the 17th. of December, 1684. Printed by order, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63305</idno>
+            <idno type="STC">Wing T2355A</idno>
+            <idno type="STC">ESTC R222393</idno>
+            <idno type="EEBO-CITATION">99833571</idno>
+            <idno type="PROQUEST">99833571</idno>
+            <idno type="VID">38048</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63305)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38048)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2180:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the behaviour, last dying words, and execution of John Hutchins, the sollicitor who was executed on a gibbet erected in Fleet-Street, for the murther of John Sparks, a water-man, on Wednesday the 17th. of December, 1684. Printed by order, &amp;c.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by E.R. for R. Turner at the Star in St. Pauls Church-yard,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Print show-through.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sparks, John, d. 1684 --  Early works to 1800.</term>
+               <term>Hutchins, John, fl. 1684 --  Early works to 1800.</term>
+               <term>Murder --  England --  Early works to 1800.</term>
+               <term>Executions and executioners --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:38048:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:38048:1"/>
+            <head>A TRUE ACCOUNT OF THE BEHAVIOUR, Laſt Dying Words, AND EXECUTION OF John Hutchins, THE SOLLICITOR: WHO Was Executed on a Gibbet erected in <hi>Fleet-Street,</hi> for the Murther of <hi>John Sparks,</hi> a Water-Man, on <hi>Wedneſday</hi> the 17th. of <hi>December,</hi> 1684.</head>
+            <p>
+               <hi>Printed by Order,</hi> &amp;c.</p>
+            <p>'TIS ſad and doleful to conſider, how raſhly men run upon point<g ref="char:EOLhyphen"/>ed ruin, and court as it were their own deſtruction, Anticipa<g ref="char:EOLhyphen"/>ting the ſtroak of Death by Nature due to <hi>Adams</hi> ſinful Progeny, by compelling Gods offended Juſtice to cut them off before their time, for their Inormous Crimes, but among many Examples of this diſmal Nature, a Bolder Murther has not of late been done than this, for
+<pb n="2" facs="tcp:38048:2"/>which the Perſon before mentioned Suffered, wherefore not to detain the Reader on a long Preamble, I ſhall Impartially proceed to the Re<g ref="char:EOLhyphen"/>lation.</p>
+            <p>
+               <hi>John Hutchins</hi> the Party Executed, was deſcended of honeſt and In<g ref="char:EOLhyphen"/>duſtrious Parents <hi>&amp;c.</hi> being left in the poſſeſſion of a conſiderable com<g ref="char:EOLhyphen"/>petency, but betaking himſelf to Lewdneſs and Debauchery, he ſoon waiſted his Patrimony, and reduced himſelf to poverty, whereupon he betook himſelf to Service, living with divers Perſons of Quality; and note, but growing weary of that employ, and lying at his own Hands, he Liſted himſelf a Soldier, in the former Campaign, and was ſome time after drawn out for <hi>Flanders,</hi> where he behaved himſelf with much bravery and reſolution, but Peace putting a concluſion to thoſe Wars, he came over with the reſt of his Comrades, and being a Man of a prompt Genius fell, into the way of Solliciting buſineſs in matters of Law, having a conſiderable employment on that occaſion, eſpecially a<g ref="char:EOLhyphen"/>mongſt inferiour People: But not leaving his former Vices, he eaſily ſuffered himſelf to be led away by bad Company; and addicted himſelf to the ſociety of Lewd Women, on whoſe occaſion he ſuffered, for being on the third of <hi>December</hi> laſt, at the <hi>Green Dragon Tavern</hi> in <hi>Fleet-ſtreet,</hi> with <hi>Elizabeth Sturt</hi> and another common Proſtetute, and drinking ſomewhat hard, he undertook to ſee them home, though fatal to his Life, for coming near <hi>Ram-Ally,</hi> Three Watermen, who had likewiſe been drinking, meeting his Doxies, <hi>viz. John Sparks</hi> de<g ref="char:EOLhyphen"/>ceaſed ſtroaked one of them upon the Apron, whereat ſhe cryed, how now you ſawcy Fellow, but he to excuſe himſelf upon the frolick; replyed, why Miſtriſs I hope 'tis no harm; yet <hi>Hutchins</hi> being behind, and obſerving what had paſſed, in much fury came up, and after ma<g ref="char:EOLhyphen"/>ny opprobrious words, ſtruck him on the Head with his Cane, where<g ref="char:EOLhyphen"/>upon, <hi>Sparks</hi> making into him, he retreated, and drew his Sword, and without further ſpeaking, run him into the right Thigh near the Bel<g ref="char:EOLhyphen"/>ly, and went off; but <hi>Sparks</hi> being carryed into a Shop, and there ſoon dying, over-ruling Providence ſo ordered it, that <hi>Hutchins</hi> came back to look for his Sword loſt in the Crowd, whereupon, he was ſeized as the Murtherer, and Committed; notwithſtanding upon his Tryal he de<g ref="char:EOLhyphen"/>nyed the Fact, yet ſo faintly, that he was found Guilty of willful Mur<g ref="char:EOLhyphen"/>ther, the proof being plain againſt him, but <hi>Sturt</hi> who was Tryed with him as Acceſſary to the ſaid Murther, appearing to be ſo drunk, that ſhe was not capable of Aiding, Abetting or Aſſiſting, ſhe was Ac<g ref="char:EOLhyphen"/>quitted, yet not ſeeming pleaſed with her Acquittal, ſhe deſired to dye with her Gallant, although ſhe had a Husband of her own: Sentence being paſled upon <hi>Hutchins,</hi> he was carryed to the Goal, where he be<g ref="char:EOLhyphen"/>haved himſelf meekly and with much Penetency, for the many ſins he had committed, greatly bewailing his former extravagancies, although he would not confeſs he was Guilty of the Murther, for which he was Sen<g ref="char:EOLhyphen"/>tenced, yet owned his being in the Scuffle, and wiſhed he had been in the remoateſt part of <hi>Europe</hi> at that time, but ſeeing he was Condemned by Law, and to ſuffer for the Fact, and the certain date of his Life Limited, he betook himſelf to Pious Meditations, as deeply conſcious of his many offences under the Load of which he laboured, confeſſing that he had been all along a debauched Perſon, and miſimployed his time in the vanities of the World, but above all he was Guilty of Sabbath breaking, Profane<g ref="char:EOLhyphen"/>neſs, and keeping Company with Lewd Women, and that for thoſe, and his other inormities, God had ſuffered him to be Accuſed and Condemned
+<pb n="3" facs="tcp:38048:2" rendition="simple:additions"/>for a Murther, he ſaid he was Innocent off; at the Sermons Preached on Sunday laſt, he appeared very devout, giving extraordinary attention to the Pious admonitions there delivered, often ſighing and caſting up his Eyes toward Heaven; as likewiſe, praying to himſelf, nor afterwards was his Penitence leſs, as appeared by his frequent retiring, to Places of as much ſecrecy as the Priſon would allow; and his attention to ſuch Miniſters, as came to adminiſter ſacred conſolation to him, and his Condemned Fellows, his Eyes being many times bedewed with Tears, which plainly ſhewed a ſad Remors, for the many miſcarriages of his miſpent Life, he being above Fifty years of Age.</p>
+            <p>Upon the Reflections he made on the Witneſſes, being reproved, he ſaid he believed they were miſtaken, he not being capable of a reſolute denyal; whereupon Mr. <hi>Ordinary</hi> Inſtanced, the obſtenacy of <hi>Gowr</hi> who Kill'd his Wife, and refuſed to confeſs it till the lateſt moment of his Life; as likewiſe of <hi>Kirk,</hi> who for ſome time likewiſe denyed the Mur<g ref="char:EOLhyphen"/>ther of his Wife, and afterwards with much penitence confeſſed it; whereupon he acknowledged he had been a great Sinner, and had made ma<g ref="char:EOLhyphen"/>ny raſh Vows, which he had broken, and amongſt others, wiſhed that Gods Vengeance might light upon him, if he came into the Company of a Perſon with which he was at variance, into whoſe Company he ſoon after came at the inſtance of Friends, yet during his Impriſonment, neither perſwaſions, nor Scripture proofs could prevail with him to con<g ref="char:EOLhyphen"/>feſs his Guilt, through Dr. <hi>Stillingfleet</hi> Dean of St. <hi>Pauls,</hi> who laboured to bring him to a free confeſſion, and obliged the Ordinary to urge him on that occaſion.</p>
+            <p>Execution day being come, he was put into a Cart, and Guard<g ref="char:EOLhyphen"/>ed by the Sheriffs Officers, to the place where the Gibbet was Ere<g ref="char:EOLhyphen"/>cted, <hi>viz.</hi> between <hi>Ram-ally</hi> and <hi>Searjeants-Inn-gate,</hi> as near as poſſi<g ref="char:EOLhyphen"/>ble, to the Fatal place where the Murther was Committed: at what time Mr. Ordinary came into the Cart to him, and urged him to a free and Ingenious Confeſſion; telling him, the danger he was in, if he denyed it, or refuſed to diſcover a Guilt he was concious off, begging him for the ſake and wellfare of his poor Immortal Soul, that he would be plain and free with him in the matter, and not go about to ſtifle the truth, ſeeing he was overtaken by Juſtice, and had but a few moments to live, upon which and the like perſwaſions, he an<g ref="char:EOLhyphen"/>ſwered, that he had been an early Sinner, and Committed many hei<g ref="char:EOLhyphen"/>nous Offences and Wickedneſſes, for which he believed God was high<g ref="char:EOLhyphen"/>ly diſpleaſed with him, and had ſuffered him to be brought to the paſs he was at, he having been Guilty of moſt known ſins, but as to the Crime for which he was to ſuffer, he was altogether ignorant, alledging his Accuſers were miſtaken, yet he forgave them, and was willing to ſubmit to the Puniſhment, <hi>&amp;c.</hi>
+            </p>
+            <p>Upon this Mr. Ordinary Prayed with him, deſiring God to give him a true ſence of his ſins, that although he muſt dye a ſhameful Death, yet that he might not periſh everlaſtingly, but that his poor Soul might find comfort, and that he would in mercy incline him to confeſs his Sins, and above all, that for which he was to Suf<g ref="char:EOLhyphen"/>fer, <hi>&amp;c.</hi>
+            </p>
+            <pb n="4" facs="tcp:38048:3"/>
+            <p>The Prayer ended, he again Examined him, urging a ſecond time the danger of concealment, telling him, that God beheld the ſecret of the heart, and nothing could be hid from him, and that a free Con<g ref="char:EOLhyphen"/>feſſion would be to Gods Glory, in the juſtneſs of the puniſhment; not<g ref="char:EOLhyphen"/>withſtanding; he diſowned the Murther, deſiring God of his Infinite mercy to forgive his Accuſers, whom he believed ſwore againſt him rather out of miſtake than Malice, for as he remembred he knew not any of them, nor ever ſee them till the day the Miſchief was done, and then being in the Crowd he loſt his Sword, and coming to in<g ref="char:EOLhyphen"/>quire about it and it happening that a Man was unfortunately Killed he was charged with the Killing him and hurried away, &amp;c.</p>
+            <p>Being urged to confeſs his Sins, and beg pardon of the Great God of Heaven, before whoſe Tribunal he was ſhortly to appear, and with much devotion he kneeled and prayed, deſiring the Almighty, that he would not lay his Sins to his charge, but out of his infinite mercy, pardon, and forgive the great and grievous tranſgreſſions, whereby he had ſo highly offended him, and pull this Judgment on his head, earneſtly beſeeching him in this his great extremity, to take pity on him, and not ſhut the Gates of his mercy againſt his Soul, but that it might find reſt and comfort after Death.</p>
+            <p>The Prayer ended, and he riſing up, Mr. Ordinary Prayed with him again very fervently, he likewiſe joyning with him in his Prayer re<g ref="char:EOLhyphen"/>peated his devotion with a chearful voice, and then ſuch as were in the Cart, urged him to confeſs if he was Guilty, and not to dye with a falſity in his Mouth, and thereby hazzard his Salvation, to which he anſwered, he had declared his Innocence, as to the Murther he was to Suffer for, and ſubmitted to Juſtice being ready to undergo the Pu<g ref="char:EOLhyphen"/>niſhment his Sins had brought upon him, for he verily believed the hand of God was in it, and thereupon he asked for his Brother, to whoſe uſe he delivered his Hat and an Orange, the <hi>Pſalm</hi> ſung (he bearing a part thereof) then came upon the Ladder, and being Mounted a ſtander by deſired him to confeſs if he was Guilty, to whom he an<g ref="char:EOLhyphen"/>ſwered, that he had many ſins, but as to the Murther he was Inno<g ref="char:EOLhyphen"/>cent, and being demanded what became then of his Sword, he ſaid, he loſt it in the Crowd, and had not ſince heard of it, and deſiring earneſtly the Prayers of ſuch as were preſent, forgiving all Men, and placing himſelf to the beſt advantage, he was turned off by the Executioner, and within leſs than an hour cut down, and the Body con<g ref="char:EOLhyphen"/>veyed thence, in order to its Interment.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>E.R.</hi> for <hi>R. Turner</hi> at the Star in St. <hi>Pauls Church-yard.</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
